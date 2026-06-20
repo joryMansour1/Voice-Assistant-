@@ -1,4 +1,4 @@
-# SmartMethods Voice Assistant 
+# Voice Assistant 
 
 مشروع Python صوتي، يقوم بتحويل الصوت إلى نص باستخدام Whisper، ثم إرسال النص إلى نموذج لغوي (Cohere) للحصول على رد، ثم تحويل الرد إلى صوت باستخدام RealtimeTTS.
 
